@@ -3,4 +3,5 @@
 &emsp;&emsp;所以我希望趁着大学这最后的一年时间里， 能够沉下心来读一读这几本经典的书， 掌握真正的知识， 从而对计算机体系有一个清晰而完整的认识，为以后的职业生涯铺路。
 
 # 参考
-http://wdxtub.com/2016/04/16/thin-csapp-0/
+http://wdxtub.com/2016/04/16/thin-csapp-0/    
+[深入理解计算机系统](https://pan.baidu.com/s/1bUo2Xw)：密码:vi6g
